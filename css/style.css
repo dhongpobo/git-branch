@@ -1,7 +1,10 @@
+body{background-color: rgb(42, 165, 124);}
+
 .container {
     width: 1148px;
     margin: 0 auto;
     overflow: hidden;
+    margin-top: 30;
 }
 
 .brand{
